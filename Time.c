@@ -26,5 +26,5 @@ main()
     t = clock() - t; 
     
 
-    printf("The execution time is: %.2lf Claus\n", (((double) t) / (CLOCKS_PER_SEC/1000)));
+    printf("The execution time is: %.2lf \n", (((double) t) / (CLOCKS_PER_SEC/1000)));
 }
