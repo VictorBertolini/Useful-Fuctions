@@ -39,7 +39,7 @@ No início da faculdade, eu recebia inúmeras listas de exercícios para fazer, 
 
 
 --- 
-### 2. Medidor de Tempo de Execução (TimeMeasure.c)
+## 2. Medidor de Tempo de Execução (TimeMeasure.c)
 
 Pequeno utilitário que mede o tempo de execução de um trecho de código usando clock().
 
