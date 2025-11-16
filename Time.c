@@ -1,12 +1,6 @@
 #include <stdio.h>
 #include <time.h>
 
-/*
- * Algorithm destinated to check the time that a program or a part of spend to run
- * Will be write the algorithm in the comment part between the variables 't'
- * At the final it'll be printed in the form 'Claus' (a created measure)
-*/
-
 void
 main() 
 {
